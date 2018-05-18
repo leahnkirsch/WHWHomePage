@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    margin: 20px;
+    font-size: 45px;
+    color:rebeccapurple;
+
+}
+h2{
+    color:rebeccapurple;
+    text-align:center;
+
+}
+#homeButtons{
+    width:300px;
+    margin:auto;
+}
+#theProblem{
+    width: 1200px;
+    margin:auto;
+    font-size: 20px;
+}
+#ourGoal{
+    width: 1200px;
+    margin:auto;
+    font-size: 20px;
+}
